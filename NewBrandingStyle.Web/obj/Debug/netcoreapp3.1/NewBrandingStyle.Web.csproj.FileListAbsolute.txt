@@ -116,3 +116,4 @@ C:\Users\neipr\source\repos\git\new-branding-style\NewBrandingStyle.Web\bin\Debu
 C:\Users\neipr\source\repos\git\new-branding-style\NewBrandingStyle.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\neipr\source\repos\git\new-branding-style\NewBrandingStyle.Web\obj\Debug\netcoreapp3.1\NewBrandingStyle.Web.csproj.CoreCompileInputs.cache
 C:\Users\neipr\source\repos\git\new-branding-style\NewBrandingStyle.Web\obj\Debug\netcoreapp3.1\NewBrandingStyle.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\neipr\source\repos\git\new-branding-style\NewBrandingStyle.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\LatestItem\Index.cshtml.g.cs
