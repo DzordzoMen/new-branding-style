@@ -26,8 +26,15 @@ using NewBrandingStyle.Web.Models;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 3 "C:\Users\neipr\source\repos\git\new-branding-style\NewBrandingStyle.Web\Views\_ViewImports.cshtml"
+using NewBrandingStyle.Web.Models.Database;
+
+#line default
+#line hidden
+#nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"86fa012378c9de20e26b39976b2eb9bad86994e6", @"/Views/Home/Index.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"5580066d2b21239d02a4169c1c33af577dbf49c5", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"0f431bc56de753cc8dced4804ce8422977e60c8f", @"/Views/_ViewImports.cshtml")]
     public class Views_Home_Index : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<dynamic>
     {
         #line hidden
@@ -63,7 +70,7 @@ using NewBrandingStyle.Web.Models;
 #line hidden
 #nullable disable
             WriteLiteral("\r\n<div class=\"text-center\">\r\n    <h1 class=\"display-4\">Welcome</h1>\r\n    ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("vc:latest-item", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "86fa012378c9de20e26b39976b2eb9bad86994e63435", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("vc:latest-item", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "86fa012378c9de20e26b39976b2eb9bad86994e63658", async() => {
             }
             );
             __LatestItemViewComponentTagHelper = CreateTagHelper<global::AspNetCore.Views_Home_Index.__Generated__LatestItemViewComponentTagHelper>();

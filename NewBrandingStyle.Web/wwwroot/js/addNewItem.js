@@ -21,9 +21,17 @@
             },
             body: JSON.stringify(requestData),
         }).then((data) => data);
+
         const responseJson = await response.json();
         if (responseJson) {
             alertElement.style.display = 'block';
+            fetch('/api/Exchanges', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify(requestData),
+            }).then((data) => console.log(data));
         }
     };
     window.addEventListener("load", () => {
